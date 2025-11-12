@@ -3,3 +3,7 @@ selenium
 webdriver-manager
 pymysql
 requests
+python-dotenv
+streamlit
+pandas
+yfinance
