@@ -14,7 +14,7 @@ SQL + Python 공부
 - 상세보기 <br>
   해당 종목의 주식 정보 그래프에 나온 횟수 데이터 결합하여 보여준다.
 
-## 기술 스
+## 기술 스택
 - Python
 - Streamlit
 - MySQL
